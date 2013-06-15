@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 <?
 echo "xz";
 echo "2xz";
 echo "xzz..";
-echo "=====";
+=======
+<? php
 echo "config";
 echo "user1 added";
 echo "conflict";
+>>>>>>> 1586b8f1f9b50392f3f0c5b7bc9a5c687bec1a34
 ?>

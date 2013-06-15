@@ -1,7 +1,9 @@
 <?
 echo "hello";
+<<<<<<< HEAD
 echo "u2 in develop branch";
 echo "xz";
-echo "salam==========>";
+=======
 echo "want conflict";
+>>>>>>> 1586b8f1f9b50392f3f0c5b7bc9a5c687bec1a34
 ?>
